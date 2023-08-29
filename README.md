@@ -21,7 +21,7 @@ Follow along with the tutorial video to learn how to set up Firebase, integrate 
 
 ## Quick Start
 
-1. Clone this repository: `git clone https://github.com/your-username/your-repo.git`
+1. Clone this repository: `git clone https://github.com/sufiyan2401/Firebase-Storage/`
 2. Follow the tutorial: [Firebase Storage Tutorial](https://www.youtube.com/watch?v=PVYL10W2XAA)
 3. Implement image upload in your React app.
 4. Enjoy the magic of Firebase image storage!
@@ -29,10 +29,6 @@ Follow along with the tutorial video to learn how to set up Firebase, integrate 
 ## Contributing
 
 Contributions are welcome! Feel free to submit pull requests or open issues for any improvements or new features you'd like to see.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
