@@ -1,15 +1,12 @@
 # React Firebase Image Upload Guide 📸
 
-## Firebase Image Upload
-![Firebase Cloud Upload](https://fontawesome.com/v5.15/icons/cloud-upload-alt?style=solid)
-
 Learn how to seamlessly upload and store images in Firebase Storage using React.js! This repository provides a step-by-step guide and code samples for implementing image upload functionality in a React application. Elevate your React development skills by mastering image handling with Firebase.
 
 [![Watch the Tutorial](https://img.youtube.com/vi/PVYL10W2XAA/0.jpg)](https://www.youtube.com/watch?v=PVYL10W2XAA)
 
 🎥 **Watch the Tutorial:** [Firebase Storage Tutorial](https://www.youtube.com/watch?v=PVYL10W2XAA)
 
-Make sure to **subscribe** to the [YouTube channel](https://www.youtube.com/channel-name) for more insightful tutorials and coding tips. If you found this repository helpful, give it a ⭐️ and show your support!
+Make sure to **subscribe** to the [YouTube channel](https://www.youtube.com/channel/UCXxTsb43Mr0g5zBN_88AzhA) for more insightful tutorials and coding tips. If you found this repository helpful, give it a ⭐️ and show your support!
 
 ## Features
 
@@ -39,4 +36,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Created with ❤️ by [Your Name](https://github.com/your-username)
+Created with ❤️ by [Sufiyan](https://github.com/sufiyan2401)
